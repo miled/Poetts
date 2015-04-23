@@ -12,8 +12,9 @@ To use Poetts, keep the Dialog box running on the background, then open Pillars 
 
 ![Image1](https://raw.githubusercontent.com/miled/poetts/master/image1.png)
 
-    Note: 
-    Depending on amount of text on the screen and your computer power, the process my take few seconds. Poetts may generate funny results at times.
+    Notes: 
+    Depending on amount of text on the screen and your computer, the process my take few seconds.
+    Poetts may generate funny results at times.
 
 Poetts is best used for this kind of interfaces:
 
@@ -21,7 +22,7 @@ Poetts is best used for this kind of interfaces:
 
 ### How it works
 
-Poetts uses ![Tesseract OCR](https://code.google.com/p/tesseract-ocr/) to convert images into text before attempting to match the extracted text to the game data folder to find the right sentences to read. This process however isn't too accurate and Poetts may generate unexpected results at times.
+Poetts uses [Tesseract OCR](https://code.google.com/p/tesseract-ocr/) to convert images into text before attempting to match the extracted text to the game data folder to find the right sentences to read. This process however isn't too accurate and Poetts may generate unexpected results at times.
 
 ### Disclaimer
 
