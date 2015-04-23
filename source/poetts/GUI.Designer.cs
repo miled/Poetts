@@ -324,7 +324,7 @@
             this.Font = new System.Drawing.Font("Century", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "GUI";
-            this.Text = "Poe·tts — Pillars of Eternity Text to Speach";
+            this.Text = "Poe·tts — Pillars of Eternity Text to Speech";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

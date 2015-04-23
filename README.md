@@ -1,4 +1,4 @@
-## Poe·tts — Pillars of Eternity Text to Speach
+## Poe·tts — Pillars of Eternity Text to Speech
 
 Poetts is a tiny utility -made for my personal use- to synthesize some of the horribly long text on Pillars of Eternity through Windows SAPI text-to-speech engine.
 
